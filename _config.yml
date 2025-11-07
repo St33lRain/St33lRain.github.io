@@ -2,7 +2,7 @@ title: Project St33l
 description: Feast your eyes on my works.
 baseurl:
 url: https://st33lrain.github.io
-theme: minima
+theme: jekyll-theme-hacker
 
 navigation:
   -title: Home
