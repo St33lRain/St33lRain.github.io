@@ -9,10 +9,10 @@ navigation:
   url: /
   -title: Projects
   sublinks:
-    -title: Cybersecurity
-    url: /projects/cybersecurity.html
-    -title: Scripts
-    url: /projects/scripts.html
+    -title: Kali Thumbdrive
+    url: /Project/Kali-Thumbdrive.html
+    -title: Penetration Testing Lab
+    url: /Project/Penetration-Testing-Lab.html
     -title: Docs
     url: /projects/docs.html
   -title: About
