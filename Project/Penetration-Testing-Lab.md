@@ -1,1 +1,8 @@
-this is where I would showcase my lab, the steps I took to setup and possibly even my first successful penetration test in a controlled environment that I own.....IF I HAD ONE!!!
+
+---
+layout: default
+title: "Penetration Testing Lab"
+---
+
+# Penetration Testing Lab
+Here I'm documenting my **home penetration testing lab setup** using VirtualBox, Vagrant, and Kali Purple as the host OS/machine.
