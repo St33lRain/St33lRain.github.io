@@ -2,4 +2,18 @@ title: Project St33l
 description: Feast your eyes on my works. 
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
+
+navigation:
+  -title: Home
+  url: /
+  -title: Projects
+  sublinks:
+    -title: Cybersecurity
+    url: /projects/cybersecurity.html
+    -title: Scripts
+    url: /projects/scripts.html
+    -title: Docs
+    url: /projects/docs.html
+  -title: About
+  url: /about.html
