@@ -12,11 +12,10 @@ body{
 }
 
 .navbar ul{
-  display: none;
   list-style-type: disc;
   margin: 5;
   padding: 2;
-  display: flex;
+  display: none;
 }
 
 .navbar.li{
