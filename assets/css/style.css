@@ -9,10 +9,10 @@ body{
 .navbar{
   background-color: #161b22;
   padding: 10px;
-  display: none;
 }
 
 .navbar ul{
+  display: none;
   list-style-type: disc;
   margin: 5;
   padding: 2;
